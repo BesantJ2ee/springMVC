@@ -1,0 +1,4 @@
+com\MovieService\AddLogic.class
+com\Movie\BookMyShow\MovieSelectionController.class
+com\Movie\BookMyShow\LoginController.class
+com\Movie\BookMyShow\RegistrationController.class
